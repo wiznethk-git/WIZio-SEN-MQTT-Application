@@ -1,0 +1,6 @@
+{
+    "host": "YOUR_BROKER_IP/URL",
+    "username": null,
+    "password": null,
+    "port": 1883
+}

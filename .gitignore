@@ -1,0 +1,11 @@
+__pycache__/
+
+# Ignore virts
+venv/
+virt/
+
+# Broker info
+mqtt.json
+
+# Agents
+AGENTS.md
