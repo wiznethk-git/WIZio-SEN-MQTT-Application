@@ -1,0 +1,15 @@
+# Exe files
+build/
+dist/
+dashboard.spec
+__pycache__/
+
+# Virt files
+venv/
+virt/
+.venv/
+
+# Pyinstaller
+*.spec
+src/
+
